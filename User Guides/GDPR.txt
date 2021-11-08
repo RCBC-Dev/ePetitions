@@ -1,0 +1,7 @@
+There is a php file that can be ran on the server to deal with old ePetitions.
+dailycheckexpired.php will look for signatures for ePetitions that have expired and anonymise the detail.
+My idea was to run this as a scheduled task once a week...
+
+There is also another file that could be ran daily - which was to remind the owner of the ePetitions system that there were ePetitions that were expiring.
+To remind them to check if they had met minimum threshold to go to cabinet etc.
+In which case the ePetition could be printed off.
